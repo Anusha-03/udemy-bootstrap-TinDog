@@ -67,3 +67,5 @@ For combined selectors: selector1.selector2 {  } OR selector1#selector2 {  }
 |||||Use colorhunt.co for even better color palette suggestions|||||
 
 The ideal size of a block is approximately ~34 characters in a line.
+
+Site link: https://distracted-euler-c6526d.netlify.app/
